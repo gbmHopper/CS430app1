@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Crypto App</string>
+
+    <string name="title_section1">Home</string>
+    <string name="title_section2">Help</string>
+    <string name="title_section3">About</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Example action</string>
+
+    <string name="action_settings">Settings</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Can I see this fragment?</string>
+    <string name="about_info">this is going to be a really long string for testing purposes to see
+        the scroll action in my app. Lorem Ipsum is simply dummy text of the printing
+        and typesetting industry. Lorem Ipsum has been the industrys standard dummy
+        text ever since the 1500s, when an unknown printer took a galley of type and
+        scrambled it to make a type specimen book. It has survived not only five cent
+        uries, but also the leap into electronic typesetting, remaining essentially un
+        changed. It was popularised in the 1960s with the release of Letraset sheets co
+        ntaining Lorem Ipsum passages, and more recently with desktop publishing softwa
+        re like Aldus PageMaker including versions of Lorem Ipsum. this is going to be a really long string for testing purposes to see
+        the scroll action in my app. Lorem Ipsum is simply dummy text of the printing
+        and typesetting industry. Lorem Ipsum has been the industrys standard dummy
+        text ever since the 1500s, when an unknown printer took a galley of type and
+        scrambled it to make a type specimen book. It has survived not only five cent
+        uries, but also the leap into electronic typesetting, remaining essentially un
+        changed. It was popularised in the 1960s with the release of Letraset sheets co
+        ntaining Lorem Ipsum passages, and more recently with desktop publishing softwa
+        re like Aldus PageMaker including versions of Lorem Ipsum.this is going to be a really long string for testing purposes to see
+        the scroll action in my app. Lorem Ipsum is simply dummy text of the printing
+        and typesetting industry. Lorem Ipsum has been the industrys standard dummy
+        text ever since the 1500s, when an unknown printer took a galley of type and
+        scrambled it to make a type specimen book. It has survived not only five cent
+        uries, but also the leap into electronic typesetting, remaining essentially un
+        changed. It was popularised in the 1960s with the release of Letraset sheets co
+        ntaining Lorem Ipsum passages, and more recently with desktop publishing softwa
+        re like Aldus PageMaker including versions of Lorem Ipsum.</string>
+    <string name="freq_analy_button">frequency analysis tool</string>
+    <string name="button2">button 2 test</string>
+</resources>
